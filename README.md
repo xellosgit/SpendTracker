@@ -1,6 +1,6 @@
-# TrulyExpenses - Personal Finance Tracker
+# Spend Traker - Personal Finance Tracker
 
-**TrulyExpenses** is a full-featured web application built with Django, designed to simplify the management of personal finances. Whether you're tracking daily expenses, managing different sources of income, or setting personalized preferences, TrulyExpenses offers a user-friendly solution to keep your financial life organized.
+**Spend Traker** is a full-featured web application built with Django, designed to simplify the management of personal finances. Whether you're tracking daily expenses, managing different sources of income, or setting personalized preferences, TrulyExpenses offers a user-friendly solution to keep your financial life organized.
 
 ## 🚀 Features
 
